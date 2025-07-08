@@ -1,12 +1,12 @@
 
 
-# 🩺 Diabetes Prediction using Support Vector Machine (SVM)
+#  Diabetes Prediction using Support Vector Machine (SVM)
 
 This machine learning project uses the **PIMA Indians Diabetes Dataset** to predict whether a person is diabetic or not based on diagnostic measurements. The model is trained using a **Support Vector Machine (SVM)** classifier with a linear kernel.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - Supervised binary classification task.
 - Algorithm used: `SVM (Support Vector Machine)` from `scikit-learn`.
@@ -15,7 +15,7 @@ This machine learning project uses the **PIMA Indians Diabetes Dataset** to pred
 
 ---
 
-## 🔍 Dataset Information
+##  Dataset Information
 
 - **Source**: PIMA Diabetes Dataset (`diabetes.csv`)
 - **Features**:
@@ -31,7 +31,7 @@ This machine learning project uses the **PIMA Indians Diabetes Dataset** to pred
 
 ---
 
-## 🧪 Model Workflow
+##  Model Workflow
 
 1. Load and analyze the dataset.
 2. Preprocess data (standardization using `StandardScaler`).
@@ -42,7 +42,7 @@ This machine learning project uses the **PIMA Indians Diabetes Dataset** to pred
 
 ---
 
-## 🧠 Model Evaluation
+##  Model Evaluation
 
 - **Train Accuracy**: ~78%
 - **Test Accuracy**: ~77%
@@ -51,7 +51,7 @@ This machine learning project uses the **PIMA Indians Diabetes Dataset** to pred
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1. Clone the repository:
    ```bash
@@ -63,7 +63,7 @@ This machine learning project uses the **PIMA Indians Diabetes Dataset** to pred
    jupyter notebook
 
 ---
-## 💡 Future Improvements
+##  Future Improvements
 
 - Tune hyperparameters using `GridSearchCV`.
 - Try different SVM kernels (e.g., `rbf`, `poly`, `sigmoid`).
@@ -72,6 +72,6 @@ This machine learning project uses the **PIMA Indians Diabetes Dataset** to pred
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - [PIMA Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
