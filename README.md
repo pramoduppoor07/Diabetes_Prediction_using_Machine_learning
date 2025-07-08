@@ -55,8 +55,8 @@ This machine learning project uses the **PIMA Indians Diabetes Dataset** to pred
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-svm.git
-   cd Diabetes_Prediction
+   git clone https://github.com/pramoduppoor07/Diabetes_Prediction_using_Machine_learning.git
+   cd Diabetes_Prediction_using_Machine_learning
 
 2. Run the Jupyter Notebook:
    ````bash
